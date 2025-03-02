@@ -19,7 +19,7 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="./preview (1).png" width="80%">
+  <img alt="Preview do projeto desenvolvido." src="./preview.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
